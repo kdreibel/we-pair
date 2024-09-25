@@ -5,15 +5,15 @@ This is a fork of [FionaVoss/we-pair](https://github.com/FionaVoss/we-pair), but
 ## The List
 |Company name|Location|How much pairing?|
 |---|---|---|
-| Artium Consulting | SF | most of the time |
+| Artium Consulting | SF | sometimes |
 | Ford | ... | ... |
 |[GitHub]([https://www.keyvalues.com/github](https://www.github.careers/careers-home))|San Francisco, CA; Boulder, CO; Amsterdam; Tokyo; remote|?|
 |[Greenhouse](https://engineering.greenhouse.io)|New York; remote|?|
 |[Gusto](https://gusto.com/about/careers/join-the-team)|San Francisco, Denver, Seattle|?|
-|[Integral Software](https://www.integral.io/careers)|Detroit, MI|All the time|
+|[Integral Software](https://www.integral.io/careers)|Detroit, MI|?|
 | Kohl's | ... | ... |
 |[Table XI](https://www.tablexi.com/careers)||"learn from the talented teammates you regularly pair with"|
-|[ThoughtWorks](https://thoughtworks.com/)|Chicago, IL, San Francisco CA, [Global](https://www.thoughtworks.com/contact-us#office-locations)|Most of the time|
+|[ThoughtWorks](https://thoughtworks.com/)|Chicago, IL, San Francisco CA, [Global](https://www.thoughtworks.com/contact-us#office-locations)|?|
 
 ## What is this?
 
