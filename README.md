@@ -1,38 +1,19 @@
 # We Pair
 
+This is a fork of [FionaVoss/we-pair](https://github.com/FionaVoss/we-pair), but with additions, and with defunct companies (and companies that don't actually pair) removed.
+
 ## The List
 |Company name|Location|How much pairing?|
 |---|---|---|
-|[Autolist](https://www.autolist.com/about-us#jobs)|San Francisco, CA; Austin, TX; Brooklyn, NY|Most of the time|
-|[BackerKit](https://www.keyvalues.com/backerkit)|San Francisco, CA|All the time|
-|[Boclips](https://www.boclips.com/careers)|London, United Kingdom|Most of the time|
-|[Braintree Payments](https://www.braintreepayments.com/careers)|Chicago, IL; San Francisco, CA; Remote|Most of the time|
-|[Carbon Five](https://www.carbonfive.com/)|Chattanooga, TN; Los Angeles, CA; New York, NY; San Francisco, CA; Seattle, WA|Some of the time|
-|[Code for America](https://www.codeforamerica.org/jobs)|San Francisco, CA|Most of the time|
-|[Connected](https://www.connected.io/careers)|Toronto, Canada; Detroit, MI, San Francisco, CA, Boston, MA|Most of the time|
-|[Detroit Labs](https://www.detroitlabs.com/careers/)|Detroit, MI|Some of the time|
+| Artium Consulting | SF | most of the time |
 | Ford | ... | ... |
-|[GitHub](https://www.keyvalues.com/github)|San Francisco, CA; Boulder, CO; Amsterdam; Tokyo; remote|Some of the time|
-|[Greenhouse](https://engineering.greenhouse.io)|New York; remote|Some of the time|
-|[Gusto](https://www.keyvalues.com/gusto)|San Francisco, Denver, Seattle|Most of the time|
+|[GitHub]([https://www.keyvalues.com/github](https://www.github.careers/careers-home))|San Francisco, CA; Boulder, CO; Amsterdam; Tokyo; remote|?|
+|[Greenhouse](https://engineering.greenhouse.io)|New York; remote|?|
+|[Gusto](https://gusto.com/about/careers/join-the-team)|San Francisco, Denver, Seattle|?|
 |[Integral Software](https://www.integral.io/careers)|Detroit, MI|All the time|
 | Kohl's | ... | ... |
-|[Mavenlink](https://www.mavenlink.com/careers)|San Francisco, CA; Salt Lake City, UT|Most to All of the time|
-|[Mayvenn](https://jobs.mayvenn.com/)|Oakland, CA|All the time|
-|[Meetup](https://www.meetup.com/careers)|New York, Berlin|Some of the time|
-|[Position Development](https://www.keyvalues.com/position-development)|Brooklyn, NY|Most of the time|
-|[RaiseMe](https://www.raise.me/jobs)|San Francisco, CA|Some of the time|
-|[Redbubble](https://www.keyvalues.com/redbubble)|Melbourne, Australia|Most of the time|
-|[Sparta Science](https://github.com/sparta-science/engineer-job-posting)|San Francisco, CA|All the time|
-|[Table XI](https://www.tablexi.com/careers)|||
-|[Tall Poppy](https://tallpoppy.io/careers)|San Francisco, CA|Most of the time|
-|[Tandem](https://madeintandem.com)|Chicago, IL & San Francisco, CA|All the time|
-|[ThoughtBot](https://thoughtbot.com/)|||
+|[Table XI](https://www.tablexi.com/careers)||"learn from the talented teammates you regularly pair with"|
 |[ThoughtWorks](https://thoughtworks.com/)|Chicago, IL, San Francisco CA, [Global](https://www.thoughtworks.com/contact-us#office-locations)|Most of the time|
-|[Transparent Classroom](http://transparentclassroom.com)|Seattle, WA|Most of the time|
-|[Voom](https://www.keyvalues.com/voom)|Seattle, WA|All the time|
-|[WWT Application Services](https://www.wwt.com/careers/)|St. Louis, MO; Springfield, MO; Denver, CO; New York, NY; London, United Kingdom|All the time|
-
 
 ## What is this?
 
